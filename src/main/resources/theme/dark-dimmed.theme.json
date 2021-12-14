@@ -1,0 +1,37 @@
+{
+    "author": "Megadash452",
+    "dark": true,
+    "name": "GitHub Dark Dimmed",
+    "editorScheme": "/theme/dark-dimmed.xml",
+
+    "colors": {
+        "html-tag": "#8DDB8C",
+        "html-tag-error": "#FF938A",
+        "html-attr": "#6CB6FF",
+        "css-var": "#F69D50",
+        "css-class": "#B392F0",
+        "css-pseudo-class": "#F183FF",
+        "css-id": "#9E72F0",
+        "css-val": "#32A7FF",
+        "css-color": "#5589FA",
+
+        "keyword": "#F47067",
+        "operator": "#F47067",
+        "punctuation": "#ADBAC7",
+        "macro": "#B392F0",
+        "function": "#DCBDFB",
+        "parameter": "#F69D50",
+        "lang-var": "#6CB6FF",
+        "class": "#8FF18E",
+        "number": "#78E977",
+        "string": "#96D0FF",
+        "string-eval": "#96D0FF",
+        "txt": "#ADBAC7",
+        "comment": "#768390",
+
+        "editor-bg": "#22272E"
+    },
+    "ui": {
+
+    }
+}

@@ -1,8 +1,13 @@
 # Github-Theme-for-JetBrains-IDEs
+<img src="src/main/resources/META-INF/pluginIcon.svg" alt="Plugin Icon" title="Plugin Icon" width="100"/>
 
 ![Build](https://github.com/Megadash452/Github-Theme-for-JetBrains-IDEs/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+
+## Disclaimer
+> #### This color theme for JetBrains IDEs is in no way affiliated with GitHub.
+
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.

@@ -9,10 +9,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.megadash452.githubthemeforjetbrainsides.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.megadash452.githubthemeforjetbrainsides.services.MyProjectService"/>
+        <themeProvider id="com.github.megadash452.githubthemeforjetbrainsides" path="/theme/dark-dimmed.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.megadash452.githubthemeforjetbrainsides.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>
